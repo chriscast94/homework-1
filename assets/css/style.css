@@ -34,11 +34,13 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+/* changed ul to menu */
+.header div menu {
     list-style-type: none;
 }
 
-.header div ul li {
+/* changed ul to menu */
+.header div menu li {
     display: inline-block;
     margin-left: 25px;
 }
