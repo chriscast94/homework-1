@@ -1,7 +1,7 @@
 # homework-1
 
 ## Description
-Developed a code base that follows accessibility standards and is optimized for SEO
+Developed a code base that follows accessibility standards and is optimized for SEO;
 Updated code to correct and modern syntax with descriptions on changes and Style Sheet
 
 ## Installation
@@ -16,7 +16,9 @@ Updated code to correct and modern syntax with descriptions on changes and Style
 
 ## Usage
 This file is representative of an updated code of a live website
-To open file, either go to the live site (file:///C:/Users/chris/Desktop/githubrepo/homework/homework-1/index.html) or open index.html in VS Code, right click on the page, and click on Open in Default Browser button if open in browser extension is enabled.
+To open file, either go to the live site here: file:///C:/Users/chris/Desktop/githubrepo/homework/homework-1/index.html 
+
+Or open index.html in VS Code, right click on the page, and click on Open in Default Browser button if open in browser extension is enabled.
 
 To view files on github, got to the repository page (https://github.com/chriscast94/homework-1)
 
