@@ -9,7 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/*Header*/
+/*Header style*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -17,15 +17,18 @@ body {
     color: #ffffff;
 }
 
+/* Sets header and h1 to 48px font size and with no line break */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Sets header, h1, and SEO color */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Applies div containers and header margins, font style, and font size  */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -34,26 +37,30 @@ body {
     font-size: 20px;
 }
 
-/* changed ul to menu */
+/* changed ul to menu to follow html change; sets list style type*/
 .header div menu {
     list-style-type: none;
 }
 
-/* changed ul to menu */
+/* changed ul to menu to follow html change; adjusts height, width, and margin's  */
 .header div menu li {
     display: inline-block;
     margin-left: 25px;
 }
+
+/* Sets anchor text color as white with no text decoration */
 
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Sets paragraph font size  */
 p {
     font-size: 16px;
 }
 
+/* Applies and adjusts hero image  */
 .hero {
     height: 800px;
     width: 100%;
@@ -63,22 +70,26 @@ p {
     background-position: center;
 }
 
+/* Applies float-left class margins and floats them left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Applies float-right class margins and floats them left */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* Applies content class width, type of box, and margin thickness */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Applies benefits class margin thickness, padding thickness, sides placement, where to float, width thickness, height, font, and element background color */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -90,54 +101,64 @@ p {
     background-color: #2589bd;
 }
 
+/* Applies color and margin thickness on bottom of benefit-lead class */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Applies color and bottom margin thickness on benefit-brand class */
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Applies color and bottom margin thickness on benefit-cost class */
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Applies bottom margin thickness and center aligns text for benefit-lead h3 and class */
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Applies bottom margin thickness and center aligns text for benefit-brand h3 and class */
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Applies bottom margin thickness and center aligns text for benefit-cost h3 and class */
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Applies type of box and margin thickness and max width for benefits-lead class image */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Applies type of box and margin thickness and max width for benefit-brand class image*/
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Applies type of box, margin thickness, and max width for benefit-cost class image */
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Applies margin thickness, box padding, height, font style, background color, and text color for search engine optimization class */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -147,6 +168,7 @@ p {
     color: #ffffff;
 }
 
+/* Applies margin thickness, box padding, height, font style, background color, and text color for online-reputation-management class */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -156,6 +178,7 @@ p {
     color: #ffffff;
 }
 
+/* Applies margin thickness, box padding, height, font style, background color, and text color for social-media-marketing class */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -165,33 +188,40 @@ p {
     color: #ffffff;
 }
 
+/* Sets max height for search-engine-optimization class image */
 .search-engine-optimization img {
     max-height: 200px;
 }
 
+/* Sets max height for online-reputation-management class image */
 .online-reputation-management img {
     max-height: 200px;
 }
 
+/* Sets max height for social-media-marketing class image */
 .social-media-marketing img {
     max-height: 200px;
 }
 
+/* Sets bottom margin thickness and font size for .search-engine-optimization class h2  */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* Sets bottom margin thickness and font size for online-reputation-management class h2  */
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* Sets bottom margin thickness and font size for social-media-marketing class h2 */
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* Sets footer style */
 .footer {
     padding: 30px;
     clear: both;
@@ -199,6 +229,7 @@ p {
     text-align: center;
 }
 
+/* Sets footer font size */
 .footer h2 {
     font-size: 20px;
 }
